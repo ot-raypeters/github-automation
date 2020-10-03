@@ -1,3 +1,3 @@
-# github-automation123
+# github-automation
 
 - test
